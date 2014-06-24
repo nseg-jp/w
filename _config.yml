@@ -1,0 +1,23 @@
+markdown: kramdown
+kramdown:
+  input: GFM
+
+timezone: Asia/Japan
+
+encoding: utf-8
+
+exclude: ["README.md"]
+
+highlighter: pygments
+
+production_url : http://nseg-jp.github.io
+
+assets: assets
+
+flickr:
+  api_key: '344bc9b73ac85cd570bd61191c57080e'
+  group_id: '1527351@N25'
+  tags: 'nseg'
+  sort: 'date-posted-desc'
+  privacy_filter: 'public photos'
+  per_page: '100'
