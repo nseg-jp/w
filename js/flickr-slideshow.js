@@ -9,7 +9,7 @@ function _getFlickrPhotos(data) {
       var itemID = item.id;
       var itemSecret = item.secret;
       var itemTitle = item.title;
-      var itemPath = 'http://farm' + itemFarm + '.static.flickr.com/' + itemServer + '/' + itemID + '_' + itemSecret + '_b.jpg';
+      var itemPath = 'http://farm' + itemFarm + '.static.flickr.com/' + itemServer + '/' + itemID + '_' + itemSecret + '_n.jpg';
       bgs.push({ src: itemPath, fade: 2000 });
     });
     bgs.sort(function() { return Math.random() - 0.5; });
