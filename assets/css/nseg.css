@@ -78,7 +78,7 @@ body {
 .navbar-new {
   background-color: #000;
   opacity:0.60;
-  background-color: rgba(0, 0, 0, 0.6);
+  /*background-color: rgba(0, 0, 0, 0.6);*/
 }
 .navbar-new .navbar-brand {
   color: #f1f1f1;
@@ -93,7 +93,7 @@ body {
 .navbar-new .navbar-nav > li > a:focus {
   background-color: #000;
   opacity:0.80;
-  background-color: rgba(0, 0, 0, 0.8);
+  /*background-color: rgba(0, 0, 0, 0.8);*/
 }
 .navbar-new .navbar-toggle {
   border-color: #dddddd;
@@ -208,6 +208,7 @@ body {
 
 /* Footer */
 footer {
+  background:#000;
   background:none repeat scroll 0 0 rgba(0, 0, 0, 0.79);
   color:#f1f1f1;
   padding:20px 0;
@@ -221,7 +222,7 @@ footer {
 
 /* responsive */
 /* Small devices (tablets, 768px and up) */
-@media (max-width: 768px) {
+@media screen and (max-width: 768px) {
   .navbar-brand {margin-left:20px;}
   .navbar-toggle {margin-right:25px;}
   #Grid .mix{margin-left:-25px;}
