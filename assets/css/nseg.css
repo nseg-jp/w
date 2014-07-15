@@ -202,6 +202,7 @@ body {
 
 .content h2 {
   padding-top: 70px;
+  text-align: center;
 }
 
 .content p {
@@ -209,6 +210,13 @@ body {
   font-weight: 200;
   line-height: 1.4;
   margin-bottom: 20px;
+}
+
+#maincontent .odd {
+}
+#maincontent .even {
+  background: none repeat scroll 0 0 #4D4D4D;
+  color: #eeeeee;
 }
 
 /* Footer */
