@@ -56,6 +56,10 @@ body {
   filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=0,StartColorStr=#60000000,EndColorStr=#60000000);
   background:rgba(0, 0, 0, 0.48);
 }
+.vert-text:not(:target) {
+  filter:none;
+}
+
 
 .vert-text h1 {
   padding: 0;
@@ -170,6 +174,10 @@ body {
   filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=0,StartColorStr=#72000000,EndColorStr=#72000000);
   border-color:#cccccc;
 }
+.btn-top:not(:target) {
+  filter:none;
+}
+
 .btn-top:hover,
 .btn-top:focus,
 .btn-top:active,
