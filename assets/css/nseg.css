@@ -9,7 +9,7 @@ body {
 .img-hilite a:hover img{
   opacity:0.50;
   filter:alpha(opacity=50);
-  dd-ms-filter: "alpha( opacity=50 )";
+  -ms-filter: "alpha( opacity=50 )";
   -moz-opacity:0.50;
 }
 
@@ -77,8 +77,8 @@ body {
 }
 .navbar-new {
   background-color: #000;
-  opacity:0.60;
-  /*background-color: rgba(0, 0, 0, 0.6);*/
+  background-color: rgba(0, 0, 0, 0.6);
+  dd-ms-filter: "alpha( opacity=60 )";
 }
 .navbar-new .navbar-brand {
   color: #f1f1f1;
@@ -92,8 +92,8 @@ body {
 .navbar-new .navbar-nav > li > a:hover,
 .navbar-new .navbar-nav > li > a:focus {
   background-color: #000;
-  opacity:0.80;
-  /*background-color: rgba(0, 0, 0, 0.8);*/
+  background-color: rgba(0, 0, 0, 0.8);
+  -ms-filter: "alpha( opacity=80 )";
 }
 .navbar-new .navbar-toggle {
   border-color: #dddddd;
