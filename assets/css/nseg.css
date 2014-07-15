@@ -53,6 +53,8 @@ body {
   vertical-align: middle;
   text-align: center;
   color:#f1f1f1;
+  background:#000;
+  -ms-filter: "alpha( opacity=48 )";
   background:rgba(0, 0, 0, 0.48);
 }
 
@@ -61,11 +63,6 @@ body {
   margin: 0;
   font-size: 4.5em;
   font-weight: 700;
-}
-#Grid .mix{
-  opacity: 0;
-  display: none;
-  max-height:230px;
 }
 
 /* Navbar */
@@ -208,6 +205,8 @@ body {
 
 /* Footer */
 footer {
+  background:#000;
+  -ms-filter: "alpha( opacity=79 )";
   background:none repeat scroll 0 0 rgba(0, 0, 0, 0.79);
   color:#f1f1f1;
   padding:20px 0;
@@ -224,5 +223,4 @@ footer {
 @media screen and (max-width: 768px) {
   .navbar-brand: {margin-left:20px;}
   .navbar-toggle: {margin-right:25px;}
-  #Grid: .mix{margin-left:-25px;}
 }
