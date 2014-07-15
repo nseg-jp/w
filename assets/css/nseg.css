@@ -53,11 +53,8 @@ body {
   vertical-align: middle;
   text-align: center;
   color:#f1f1f1;
-  background:#000;
   -ms-filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=0,StartColorStr=#60000000,EndColorStr=#60000000);
-  opacity:0.48;
-  -moz-opacity:0.48;
-  /*background:rgba(0, 0, 0, 0.48);*/
+  background:rgba(0, 0, 0, 0.48);
 }
 
 .vert-text h1 {
@@ -208,11 +205,9 @@ body {
 /* Footer */
 footer {
   background:#000;
-  /*background:none repeat scroll 0 0 rgba(0, 0, 0, 0.79);*/
-  background:none repeat scroll 0 0;
-  -ms-filter:progid:DXImageTransform.Microsoft.Gradient(StartColorStr=#9e000000,EndColorStr=#9e000000,GradientType=0);
-  opacity:0.79;
-  -moz-opacity:0.79;
+  background:none repeat scroll 0 0 rgba(0, 0, 0, 0.79);
+  filter:alpha(opacity=79);
+  -ms-filter: "alpha( opacity=79 )";
   color:#f1f1f1;
   padding:20px 0;
   border-top:1px solid #D1D1D1 !important;
