@@ -130,7 +130,7 @@ body {
   border-top-color: #777777;
   border-bottom-color: #777777;
 }
-@media (max-width: 767px) {
+@media screen and (max-width: 767px) {
   .navbar-new .navbar-nav .open .dropdown-menu > li > a {
     color: #777777;
   }
