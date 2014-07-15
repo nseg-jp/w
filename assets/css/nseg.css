@@ -212,7 +212,7 @@ footer {
   color:#f1f1f1;
   padding:20px 0;
   border-top:1px solid #D1D1D1 !important;
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#fff2f2f2', GradientType=0);
+  /*filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#fff2f2f2', GradientType=0);*/
   *zoom: 1;
   -webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.065);
   -moz-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.065);
@@ -221,10 +221,8 @@ footer {
 
 /* responsive */
 /* Small devices (tablets, 768px and up) */
-/*
 @media screen and (max-width: 768px) {
   .navbar-brand: {margin-left:20px;}
   .navbar-toggle: {margin-right:25px;}
   #Grid: .mix{margin-left:-25px;}
 }
-*/
