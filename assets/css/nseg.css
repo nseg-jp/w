@@ -30,6 +30,7 @@ body {
 .vegas-overlay {
   background: transparent url(overlays/01.png);
   opacity: 0.5;
+  dd-ms-filter: "alpha( opacity=50 )";
   z-index: -1;
 }
 
