@@ -208,7 +208,6 @@ body {
 
 /* Footer */
 footer {
-  background:#000;
   background:none repeat scroll 0 0 rgba(0, 0, 0, 0.79);
   color:#f1f1f1;
   padding:20px 0;
@@ -222,8 +221,10 @@ footer {
 
 /* responsive */
 /* Small devices (tablets, 768px and up) */
+/*
 @media screen and (max-width: 768px) {
   .navbar-brand: {margin-left:20px;}
   .navbar-toggle: {margin-right:25px;}
   #Grid: .mix{margin-left:-25px;}
 }
+*/
