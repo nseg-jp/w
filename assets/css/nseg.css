@@ -53,7 +53,7 @@ body {
   vertical-align: middle;
   text-align: center;
   color:#f1f1f1;
-  -ms-filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=0,StartColorStr=#60000000,EndColorStr=#60000000);
+  filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=0,StartColorStr=#60000000,EndColorStr=#60000000);
   background:rgba(0, 0, 0, 0.48);
 }
 
