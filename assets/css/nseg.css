@@ -76,6 +76,8 @@ body {
   border-radius:0px !important;
 }
 .navbar-new {
+  background-color: #000;
+  opacity:0.60;
   background-color: rgba(0, 0, 0, 0.6);
 }
 .navbar-new .navbar-brand {
@@ -89,6 +91,8 @@ body {
 }
 .navbar-new .navbar-nav > li > a:hover,
 .navbar-new .navbar-nav > li > a:focus {
+  background-color: #000;
+  opacity:0.80;
   background-color: rgba(0, 0, 0, 0.8);
 }
 .navbar-new .navbar-toggle {
