@@ -78,7 +78,7 @@ body {
 .navbar-new {
   background-color: #000;
   background-color: rgba(0, 0, 0, 0.6);
-  dd-ms-filter: "alpha( opacity=60 )";
+  -ms-filter: "alpha( opacity=60 )";
 }
 .navbar-new .navbar-brand {
   color: #f1f1f1;
