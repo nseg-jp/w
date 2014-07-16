@@ -1,5 +1,5 @@
 $(function() {
-  var parent = prev = null;
+  var parent = null;
   var flg = 'odd';
   $('#maincontent').children().each(function() {
     if ($(this).prop('tagName') == 'H2') {
