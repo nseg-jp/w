@@ -4,6 +4,8 @@ html,
 body {
   height: 100%;
   width: 100%;
+  font-family: 'ƒqƒ‰ƒMƒmŠpƒS Pro W3','Hiragino Kaku Gothic Pro','ƒƒCƒŠƒI',Meiryo,'‚l‚r ‚oƒSƒVƒbƒN',sans-serif;
+}
 }
 
 .img-hilite a:hover img{
