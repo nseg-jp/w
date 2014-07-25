@@ -9,16 +9,11 @@
 
   var trackOutboundLink = function(url) {
     var win = window;
-    if (navigator.userAgent.indexOf('Safari') != -1 &&
-        navigator.userAgent.indexOf('Chrome') == -1) {
-      win = window;
-    } else {
-      win = window.open('', 'blank');
-    }
-   ga('send', 'event', 'outbound', 'click', url, {'hitCallback':
-     function () {
-       win.document.location = url;
-     }
-   });
+    win = window.open('', 'blank');
+    ga('send', 'event', 'outbound', 'click', url, {'hitCallback':
+      function () {
+        win.document.location = url;
+      }
+    });
   }
 </script>
