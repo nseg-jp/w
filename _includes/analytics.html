@@ -8,8 +8,7 @@
   ga('send', 'pageview');
 
   var trackOutboundLink = function(url) {
-    var win = window;
-    win = window.open('', 'blank');
+    var win = window.open('', 'blank');
     ga('send', 'event', 'outbound', 'click', url, {'hitCallback':
       function () {
         win.document.location = url;
