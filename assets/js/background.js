@@ -1,22 +1,33 @@
 $(function() {
   var parent = null;
-  var flg = 'odd';
+  var row = null;
+  var blk_count = 0;
+  var flg = 'even';
+
   $('#maincontent').children().each(function() {
     if ($(this).prop('tagName') == 'H2') {
+      blk_count++;
       parent = null;
     }
     if (parent == null) {
-      var section;
-      if (flg == 'odd') {
-        section  = $('<div class="section odd">');
-        flg = 'even';
-      } else {
-        section  = $('<div class="section even">');
-        flg = 'odd';
+      if (blk_count % 2 != 0) {
+        row = null;
       }
-      $('#maincontent').append(section);
-      parent = $('<div class="container">');
-      section.append(parent);
+      if (row == null) {
+        if (flg == 'odd') {
+          flg = 'even';
+        } else {
+          flg = 'odd';
+        }
+        var section  = $('<div class="section ' + flg + '">');
+        $('#maincontent').append(section);
+        var container = $('<div class="container">');
+        section.append(container);
+        row = $('<div class="row">');
+        container.append(row);
+      }
+      parent = $('<div class="col-sm-6">');
+      row.append(parent);
     }
     $(this).remove();
     parent.append($(this));
