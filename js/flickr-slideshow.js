@@ -27,7 +27,7 @@ function _getFlickrPhotos(data) {
 $(function() {
   $.ajax({
     type : 'GET',
-    url : 'https://www.flickr.com/services/rest/',
+    url : 'https://api.flickr.com/services/rest/',
     data : {
       format : 'json',
       method : 'flickr.photos.search',
