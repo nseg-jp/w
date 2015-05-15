@@ -14,7 +14,6 @@ class NSEGImgListGenerator
   FLICKR_PER_PAGE = '100'
 
   def get_flickr()
-    result = nil;
     uri = URI.parse('https://api.flickr.com/services/rest/')
     http = Net::HTTP.new(uri.host, uri.port)
     http.use_ssl = true
@@ -37,7 +36,7 @@ class NSEGImgListGenerator
   end
 
   def get_imagelist(data)
-    result = [];
+    result = []
     data['photos']['photo'].each do |item|
       path  = "http://farm#{item['farm']}.static.flickr.com/"
       path += "#{item['server']}/#{item['id']}_#{item['secret']}"
@@ -57,7 +56,6 @@ class NSEGImgListGenerator
   end
 
 end
-
 
 def do_exec()
   gen = NSEGImgListGenerator.new
