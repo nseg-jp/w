@@ -50,7 +50,7 @@ class NSEGImgListGenerator
 
   def put_vegas_json(imgs)
     buff = []
-    imgs.each do |i|
+    imgs.sort.each do |i|
       buff << { :src => i, :fade => 2000  } 
     end
     return JSON.generate(buff)
