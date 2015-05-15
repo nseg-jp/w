@@ -3,6 +3,6 @@ $(function() {
     delay: 5000,
     backgrounds: vegas_imgs,
   })('overlay', {
-    src:'{{ site.assets }}/img/overlay.png'
+    src:'assets/img/overlay.png'
   });    
 });
