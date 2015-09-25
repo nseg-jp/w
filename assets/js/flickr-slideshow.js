@@ -1,10 +1,11 @@
 $(function() {
-  vegas_imgs.sort(function() { return Math.random() - 0.5; });
-
-  $.vegas('slideshow', {
+  $("body").vegas({
+    shuffle: true,
     delay: 5000,
-    backgrounds: vegas_imgs,
-  })('overlay', {
-    src:'assets/img/overlay.png'
+    slides: vegas_imgs,
+    overlay: 'img/overlay.png',
+    timer: false,
+    transition: [ 'fade', 'zoomOut', 'blur'],
+    animation: 'kenburns'
   });
 });
