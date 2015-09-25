@@ -3,7 +3,7 @@ $(function() {
     shuffle: true,
     delay: 5000,
     slides: vegas_imgs,
-    overlay: 'img/overlay.png',
+    overlay: 'assets/img/overlay.png',
     timer: false,
     transition: [ 'fade', 'zoomOut', 'blur'],
     animation: 'kenburns'
