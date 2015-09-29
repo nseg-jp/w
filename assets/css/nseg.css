@@ -111,6 +111,9 @@ body {
   border-top-color: #777777;
   border-bottom-color: #777777;
 }
+.navbar-new .navbar-nav li.active > a {
+  background-color: #777777;
+}
 @media screen and (max-width: 767px) {
   .navbar-new .navbar-nav .open .dropdown-menu > li > a {
     color: #777777;
