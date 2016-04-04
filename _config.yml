@@ -8,7 +8,7 @@ encoding: utf-8
 
 exclude: ["README.md"]
 
-highlighter: pygments
+highlighter: rouge
 
 production_url : http://nseg-jp.github.io
 
