@@ -36,4 +36,6 @@ NSEG として開催した勉強会は、概要を [Wiki](http://github.com/nseg
 ## 公式プロジェクト
 {: #projects}
  
-公式の [GitHub Organization](http://github.com/nseg-jp/) があります。NSEG 発のなにがしかの成果物が発表されるかもしれません？？
+* [BitKids](http://bitkids.github.io/) 子供向けプログラミングQ&Aサービス
+
+その他にも NSEG の [GitHub Organization](http://github.com/nseg-jp/) にはこれから形になるプロジェクトが控えているかもしれません？？
