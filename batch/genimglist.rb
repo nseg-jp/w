@@ -6,7 +6,7 @@ require 'json'
 
 class NSEGImgListGenerator
 
-  FLICKR_API_KEY = '344bc9b73ac85cd570bd61191c57080e'
+  FLICKR_API_KEY = '1315915ca690c2cf40209e011194dfdc'
   FLICKR_GROUP_ID = '1527351@N25'
   FLICKR_TAGS = 'nseg'
   FLICKR_SORT = 'date-posted-desc'
