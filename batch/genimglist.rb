@@ -52,7 +52,7 @@ class NSEGImgListGenerator
     imgs.sort.each do |i|
       buff << { :src => i, :fade => 2000  } 
     end
-    return JSON.generate(buff)
+    return JSON.pretty_generate(buff)
   end
 
 end
