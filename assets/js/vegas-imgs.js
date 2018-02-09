@@ -120,6 +120,10 @@ var vegas_imgs = [
     "fade": 2000
   },
   {
+    "src": "http://farm6.static.flickr.com/5032/7431235084_2ac154f91f_n.jpg",
+    "fade": 2000
+  },
+  {
     "src": "http://farm6.static.flickr.com/5036/7431275534_f5fc35cb6f_n.jpg",
     "fade": 2000
   },
@@ -140,6 +144,10 @@ var vegas_imgs = [
     "fade": 2000
   },
   {
+    "src": "http://farm6.static.flickr.com/5159/7431231638_1db1f1bfb7_n.jpg",
+    "fade": 2000
+  },
+  {
     "src": "http://farm6.static.flickr.com/5191/7440220914_4beefb459d_n.jpg",
     "fade": 2000
   },
@@ -156,7 +164,7 @@ var vegas_imgs = [
     "fade": 2000
   },
   {
-    "src": "http://farm6.static.flickr.com/5330/7440197492_b6f496696c_n.jpg",
+    "src": "http://farm6.static.flickr.com/5319/7431224478_77e44e134c_n.jpg",
     "fade": 2000
   },
   {
@@ -236,19 +244,11 @@ var vegas_imgs = [
     "fade": 2000
   },
   {
-    "src": "http://farm6.static.flickr.com/5613/15437463787_737d40b1d5_n.jpg",
-    "fade": 2000
-  },
-  {
     "src": "http://farm6.static.flickr.com/5614/15437465507_835fb082e6_n.jpg",
     "fade": 2000
   },
   {
     "src": "http://farm6.static.flickr.com/5614/15623461005_37eff1c656_n.jpg",
-    "fade": 2000
-  },
-  {
-    "src": "http://farm6.static.flickr.com/5651/23777870671_926f00e49f_n.jpg",
     "fade": 2000
   },
   {
@@ -281,6 +281,10 @@ var vegas_imgs = [
   },
   {
     "src": "http://farm8.static.flickr.com/7119/7431287080_4f7a187542_n.jpg",
+    "fade": 2000
+  },
+  {
+    "src": "http://farm8.static.flickr.com/7123/7431227740_25c1fb10b1_n.jpg",
     "fade": 2000
   },
   {
@@ -328,14 +332,6 @@ var vegas_imgs = [
     "fade": 2000
   },
   {
-    "src": "http://farm8.static.flickr.com/7276/7440215958_25f919eae2_n.jpg",
-    "fade": 2000
-  },
-  {
-    "src": "http://farm8.static.flickr.com/7277/7440199798_bf13f2a54a_n.jpg",
-    "fade": 2000
-  },
-  {
     "src": "http://farm8.static.flickr.com/7322/16425009851_96ce9c099f_n.jpg",
     "fade": 2000
   },
@@ -357,6 +353,10 @@ var vegas_imgs = [
   },
   {
     "src": "http://farm9.static.flickr.com/8007/7431263034_8c3ac610f8_n.jpg",
+    "fade": 2000
+  },
+  {
+    "src": "http://farm9.static.flickr.com/8008/7431238648_c523733776_n.jpg",
     "fade": 2000
   },
   {
