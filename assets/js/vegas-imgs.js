@@ -32,6 +32,10 @@ var vegas_imgs = [
     "fade": 2000
   },
   {
+    "src": "http://farm3.static.flickr.com/2903/14471177775_2e015316c7_n.jpg",
+    "fade": 2000
+  },
+  {
     "src": "http://farm3.static.flickr.com/2923/14434444125_8636d65b51_n.jpg",
     "fade": 2000
   },
@@ -73,10 +77,6 @@ var vegas_imgs = [
   },
   {
     "src": "http://farm4.static.flickr.com/3940/15599776516_262df18809_n.jpg",
-    "fade": 2000
-  },
-  {
-    "src": "http://farm4.static.flickr.com/3941/15002701534_4dd61248e2_n.jpg",
     "fade": 2000
   },
   {
@@ -172,15 +172,15 @@ var vegas_imgs = [
     "fade": 2000
   },
   {
-    "src": "http://farm5.static.flickr.com/4139/4778382499_737d11a5ab_n.jpg",
-    "fade": 2000
-  },
-  {
     "src": "http://farm5.static.flickr.com/4139/4779025350_f29cfa9169_n.jpg",
     "fade": 2000
   },
   {
     "src": "http://farm5.static.flickr.com/4140/4779019334_1eacd47af5_n.jpg",
+    "fade": 2000
+  },
+  {
+    "src": "http://farm5.static.flickr.com/4141/4778386905_efee3c07bc_n.jpg",
     "fade": 2000
   },
   {
@@ -296,6 +296,10 @@ var vegas_imgs = [
     "fade": 2000
   },
   {
+    "src": "http://farm8.static.flickr.com/7055/7005748841_9bee686040_n.jpg",
+    "fade": 2000
+  },
+  {
     "src": "http://farm8.static.flickr.com/7112/7440203818_435503b662_n.jpg",
     "fade": 2000
   },
@@ -309,10 +313,6 @@ var vegas_imgs = [
   },
   {
     "src": "http://farm8.static.flickr.com/7118/7440204602_0c9c8174d0_n.jpg",
-    "fade": 2000
-  },
-  {
-    "src": "http://farm8.static.flickr.com/7123/7431227740_25c1fb10b1_n.jpg",
     "fade": 2000
   },
   {
@@ -337,10 +337,6 @@ var vegas_imgs = [
   },
   {
     "src": "http://farm8.static.flickr.com/7254/7440193674_bd64024420_n.jpg",
-    "fade": 2000
-  },
-  {
-    "src": "http://farm8.static.flickr.com/7268/7431266542_79c4dda6f8_n.jpg",
     "fade": 2000
   },
   {
@@ -397,6 +393,10 @@ var vegas_imgs = [
   },
   {
     "src": "http://farm9.static.flickr.com/8165/7440229200_787ba5f7c7_n.jpg",
+    "fade": 2000
+  },
+  {
+    "src": "http://farm9.static.flickr.com/8768/16657888423_86bf1bfb52_n.jpg",
     "fade": 2000
   }
 ]
