@@ -28,11 +28,11 @@ var vegas_imgs = [
     "fade": 2000
   },
   {
-    "src": "http://farm3.static.flickr.com/2898/14433316664_b2e7d54e36_n.jpg",
+    "src": "http://farm3.static.flickr.com/2903/14471177775_2e015316c7_n.jpg",
     "fade": 2000
   },
   {
-    "src": "http://farm3.static.flickr.com/2903/14471177775_2e015316c7_n.jpg",
+    "src": "http://farm3.static.flickr.com/2921/14247856860_58820cb0b1_n.jpg",
     "fade": 2000
   },
   {
