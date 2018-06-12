@@ -100,10 +100,6 @@ var vegas_imgs = [
     "fade": 2000
   },
   {
-    "src": "http://farm5.static.flickr.com/4081/4778386663_277052ef06_n.jpg",
-    "fade": 2000
-  },
-  {
     "src": "http://farm5.static.flickr.com/4081/4779018886_f36e9752ae_n.jpg",
     "fade": 2000
   },
@@ -169,6 +165,14 @@ var vegas_imgs = [
   },
   {
     "src": "http://farm5.static.flickr.com/4136/4779019584_cb0cf687ab_n.jpg",
+    "fade": 2000
+  },
+  {
+    "src": "http://farm5.static.flickr.com/4137/4779018052_6158fc04de_n.jpg",
+    "fade": 2000
+  },
+  {
+    "src": "http://farm5.static.flickr.com/4139/4778382499_737d11a5ab_n.jpg",
     "fade": 2000
   },
   {
@@ -244,11 +248,11 @@ var vegas_imgs = [
     "fade": 2000
   },
   {
-    "src": "http://farm6.static.flickr.com/5590/14923296622_5057ec9a01_n.jpg",
+    "src": "http://farm6.static.flickr.com/5571/14736980659_5bf44c7361_n.jpg",
     "fade": 2000
   },
   {
-    "src": "http://farm6.static.flickr.com/5594/14737068337_72304eea7f_n.jpg",
+    "src": "http://farm6.static.flickr.com/5590/14923296622_5057ec9a01_n.jpg",
     "fade": 2000
   },
   {
@@ -272,10 +276,6 @@ var vegas_imgs = [
     "fade": 2000
   },
   {
-    "src": "http://farm6.static.flickr.com/5613/15437463787_737d40b1d5_n.jpg",
-    "fade": 2000
-  },
-  {
     "src": "http://farm6.static.flickr.com/5651/23777870671_926f00e49f_n.jpg",
     "fade": 2000
   },
@@ -288,10 +288,6 @@ var vegas_imgs = [
     "fade": 2000
   },
   {
-    "src": "http://farm6.static.flickr.com/5757/23492451319_c5cf143d7e_n.jpg",
-    "fade": 2000
-  },
-  {
     "src": "http://farm6.static.flickr.com/5768/23777872321_af64c8ed39_n.jpg",
     "fade": 2000
   },
@@ -301,6 +297,14 @@ var vegas_imgs = [
   },
   {
     "src": "http://farm7.static.flickr.com/6049/6859629352_7dae43ebd4_n.jpg",
+    "fade": 2000
+  },
+  {
+    "src": "http://farm8.static.flickr.com/7036/7005747181_562f6621fd_n.jpg",
+    "fade": 2000
+  },
+  {
+    "src": "http://farm8.static.flickr.com/7055/7005748841_9bee686040_n.jpg",
     "fade": 2000
   },
   {
@@ -373,10 +377,6 @@ var vegas_imgs = [
   },
   {
     "src": "http://farm8.static.flickr.com/7374/16239124078_105f55ee43_n.jpg",
-    "fade": 2000
-  },
-  {
-    "src": "http://farm8.static.flickr.com/7703/17276324872_00369beb45_n.jpg",
     "fade": 2000
   },
   {
