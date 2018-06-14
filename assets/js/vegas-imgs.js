@@ -84,6 +84,10 @@ var vegas_imgs = [
     "fade": 2000
   },
   {
+    "src": "http://farm5.static.flickr.com/4030/4444342348_c6476a86b0_n.jpg",
+    "fade": 2000
+  },
+  {
     "src": "http://farm5.static.flickr.com/4074/4778382937_2a4c22f9f6_n.jpg",
     "fade": 2000
   },
@@ -101,6 +105,10 @@ var vegas_imgs = [
   },
   {
     "src": "http://farm5.static.flickr.com/4081/4779018886_f36e9752ae_n.jpg",
+    "fade": 2000
+  },
+  {
+    "src": "http://farm5.static.flickr.com/4094/4779017278_954c964090_n.jpg",
     "fade": 2000
   },
   {
@@ -169,10 +177,6 @@ var vegas_imgs = [
   },
   {
     "src": "http://farm5.static.flickr.com/4136/4779019584_cb0cf687ab_n.jpg",
-    "fade": 2000
-  },
-  {
-    "src": "http://farm5.static.flickr.com/4137/4779018052_6158fc04de_n.jpg",
     "fade": 2000
   },
   {
@@ -357,10 +361,6 @@ var vegas_imgs = [
   },
   {
     "src": "http://farm8.static.flickr.com/7276/7440215958_25f919eae2_n.jpg",
-    "fade": 2000
-  },
-  {
-    "src": "http://farm8.static.flickr.com/7277/7440199798_bf13f2a54a_n.jpg",
     "fade": 2000
   },
   {
