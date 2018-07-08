@@ -4,6 +4,10 @@ var vegas_imgs = [
     "fade": 2000
   },
   {
+    "src": "http://farm1.static.flickr.com/658/23821089505_6b9c1db8c1_n.jpg",
+    "fade": 2000
+  },
+  {
     "src": "http://farm1.static.flickr.com/660/23025299789_39175f72fd_n.jpg",
     "fade": 2000
   },
@@ -20,7 +24,7 @@ var vegas_imgs = [
     "fade": 2000
   },
   {
-    "src": "http://farm3.static.flickr.com/2903/14471177775_2e015316c7_n.jpg",
+    "src": "http://farm3.static.flickr.com/2907/14448084756_478760b107_n.jpg",
     "fade": 2000
   },
   {
@@ -100,14 +104,6 @@ var vegas_imgs = [
     "fade": 2000
   },
   {
-    "src": "http://farm5.static.flickr.com/4064/4443570947_08eea8d38d_n.jpg",
-    "fade": 2000
-  },
-  {
-    "src": "http://farm5.static.flickr.com/4074/4778382937_2a4c22f9f6_n.jpg",
-    "fade": 2000
-  },
-  {
     "src": "http://farm5.static.flickr.com/4081/4778384895_2201c8d815_n.jpg",
     "fade": 2000
   },
@@ -140,10 +136,6 @@ var vegas_imgs = [
     "fade": 2000
   },
   {
-    "src": "http://farm5.static.flickr.com/4101/4779023194_26fa209142_n.jpg",
-    "fade": 2000
-  },
-  {
     "src": "http://farm5.static.flickr.com/4102/4778388925_20acd03a59_n.jpg",
     "fade": 2000
   },
@@ -157,6 +149,10 @@ var vegas_imgs = [
   },
   {
     "src": "http://farm5.static.flickr.com/4114/4779020988_7946f70a2d_n.jpg",
+    "fade": 2000
+  },
+  {
+    "src": "http://farm5.static.flickr.com/4115/4778388681_013fbd3a1d_n.jpg",
     "fade": 2000
   },
   {
@@ -209,6 +205,10 @@ var vegas_imgs = [
   },
   {
     "src": "http://farm6.static.flickr.com/5032/7431235084_2ac154f91f_n.jpg",
+    "fade": 2000
+  },
+  {
+    "src": "http://farm6.static.flickr.com/5036/7431275534_f5fc35cb6f_n.jpg",
     "fade": 2000
   },
   {
@@ -368,6 +368,10 @@ var vegas_imgs = [
     "fade": 2000
   },
   {
+    "src": "http://farm8.static.flickr.com/7365/16239123568_78fa0e9d98_n.jpg",
+    "fade": 2000
+  },
+  {
     "src": "http://farm8.static.flickr.com/7374/16239124078_105f55ee43_n.jpg",
     "fade": 2000
   },
@@ -381,10 +385,6 @@ var vegas_imgs = [
   },
   {
     "src": "http://farm9.static.flickr.com/8013/7440207938_4f4802c504_n.jpg",
-    "fade": 2000
-  },
-  {
-    "src": "http://farm9.static.flickr.com/8020/7440228030_7476faea8f_n.jpg",
     "fade": 2000
   },
   {
