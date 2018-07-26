@@ -252,10 +252,6 @@ var vegas_imgs = [
     "fade": 2000
   },
   {
-    "src": "http://farm6.static.flickr.com/5597/15003297783_4be96be01a_n.jpg",
-    "fade": 2000
-  },
-  {
     "src": "http://farm6.static.flickr.com/5598/15002699744_9f122bedcf_n.jpg",
     "fade": 2000
   },
@@ -389,6 +385,10 @@ var vegas_imgs = [
   },
   {
     "src": "http://farm9.static.flickr.com/8028/7440194580_e8545428c4_n.jpg",
+    "fade": 2000
+  },
+  {
+    "src": "http://farm9.static.flickr.com/8143/7440212934_c10b3e7704_n.jpg",
     "fade": 2000
   },
   {
