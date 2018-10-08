@@ -1,5 +1,9 @@
 var vegas_imgs = [
   {
+    "src": "http://farm1.static.flickr.com/601/23712685702_1ef5b59297_n.jpg",
+    "fade": 2000
+  },
+  {
     "src": "http://farm1.static.flickr.com/650/23393270425_319d53514d_n.jpg",
     "fade": 2000
   },
@@ -20,6 +24,10 @@ var vegas_imgs = [
     "fade": 2000
   },
   {
+    "src": "http://farm3.static.flickr.com/2903/14471177775_2e015316c7_n.jpg",
+    "fade": 2000
+  },
+  {
     "src": "http://farm3.static.flickr.com/2907/14448084756_478760b107_n.jpg",
     "fade": 2000
   },
@@ -36,11 +44,11 @@ var vegas_imgs = [
     "fade": 2000
   },
   {
-    "src": "http://farm4.static.flickr.com/3934/15003296033_c2ba65e3a1_n.jpg",
+    "src": "http://farm4.static.flickr.com/3937/15624308582_ca5217d9c6_n.jpg",
     "fade": 2000
   },
   {
-    "src": "http://farm4.static.flickr.com/3937/15624308582_ca5217d9c6_n.jpg",
+    "src": "http://farm4.static.flickr.com/3941/15002701534_4dd61248e2_n.jpg",
     "fade": 2000
   },
   {
@@ -104,10 +112,6 @@ var vegas_imgs = [
     "fade": 2000
   },
   {
-    "src": "http://farm5.static.flickr.com/4137/4779018052_6158fc04de_n.jpg",
-    "fade": 2000
-  },
-  {
     "src": "http://farm5.static.flickr.com/4139/4778382499_737d11a5ab_n.jpg",
     "fade": 2000
   },
@@ -121,6 +125,10 @@ var vegas_imgs = [
   },
   {
     "src": "http://farm5.static.flickr.com/4141/4778386905_efee3c07bc_n.jpg",
+    "fade": 2000
+  },
+  {
+    "src": "http://farm5.static.flickr.com/4683/38022416725_2b323819f8_n.jpg",
     "fade": 2000
   },
   {
@@ -236,6 +244,10 @@ var vegas_imgs = [
     "fade": 2000
   },
   {
+    "src": "http://farm8.static.flickr.com/7130/7440217184_1984286c9e_n.jpg",
+    "fade": 2000
+  },
+  {
     "src": "http://farm8.static.flickr.com/7139/7440209158_bd46290872_n.jpg",
     "fade": 2000
   },
@@ -269,6 +281,10 @@ var vegas_imgs = [
   },
   {
     "src": "http://farm9.static.flickr.com/8013/7440207938_4f4802c504_n.jpg",
+    "fade": 2000
+  },
+  {
+    "src": "http://farm9.static.flickr.com/8155/7431242584_13cb7981f0_n.jpg",
     "fade": 2000
   },
   {
