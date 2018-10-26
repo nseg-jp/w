@@ -1,10 +1,6 @@
 var vegas_imgs = [
   {
-    "src": "http://farm1.static.flickr.com/601/23712685702_1ef5b59297_n.jpg",
-    "fade": 2000
-  },
-  {
-    "src": "http://farm1.static.flickr.com/724/23834267126_107f4e817a_n.jpg",
+    "src": "http://farm1.static.flickr.com/671/23367110866_cf1948e750_n.jpg",
     "fade": 2000
   },
   {
@@ -60,23 +56,11 @@ var vegas_imgs = [
     "fade": 2000
   },
   {
-    "src": "http://farm5.static.flickr.com/4019/4444340626_c18f5c9172_n.jpg",
-    "fade": 2000
-  },
-  {
     "src": "http://farm5.static.flickr.com/4028/4443563653_82ddea0624_n.jpg",
     "fade": 2000
   },
   {
     "src": "http://farm5.static.flickr.com/4030/4444342348_c6476a86b0_n.jpg",
-    "fade": 2000
-  },
-  {
-    "src": "http://farm5.static.flickr.com/4041/4444340056_0fa0c85bea_n.jpg",
-    "fade": 2000
-  },
-  {
-    "src": "http://farm5.static.flickr.com/4061/4443569853_7892b7ac76_n.jpg",
     "fade": 2000
   },
   {
@@ -112,15 +96,15 @@ var vegas_imgs = [
     "fade": 2000
   },
   {
-    "src": "http://farm5.static.flickr.com/4099/4778388287_47be3edef9_n.jpg",
-    "fade": 2000
-  },
-  {
     "src": "http://farm5.static.flickr.com/4114/4778382225_5cb339eef0_n.jpg",
     "fade": 2000
   },
   {
     "src": "http://farm5.static.flickr.com/4115/4778388681_013fbd3a1d_n.jpg",
+    "fade": 2000
+  },
+  {
+    "src": "http://farm5.static.flickr.com/4122/4779025950_ccfe7c1c15_n.jpg",
     "fade": 2000
   },
   {
@@ -132,6 +116,10 @@ var vegas_imgs = [
     "fade": 2000
   },
   {
+    "src": "http://farm5.static.flickr.com/4135/4778389515_9a8e464b0d_n.jpg",
+    "fade": 2000
+  },
+  {
     "src": "http://farm5.static.flickr.com/4136/4778390765_3ff292acfc_n.jpg",
     "fade": 2000
   },
@@ -140,15 +128,7 @@ var vegas_imgs = [
     "fade": 2000
   },
   {
-    "src": "http://farm5.static.flickr.com/4139/4779025350_f29cfa9169_n.jpg",
-    "fade": 2000
-  },
-  {
     "src": "http://farm5.static.flickr.com/4141/4778386905_efee3c07bc_n.jpg",
-    "fade": 2000
-  },
-  {
-    "src": "http://farm5.static.flickr.com/4683/38022416725_2b323819f8_n.jpg",
     "fade": 2000
   },
   {
@@ -164,7 +144,27 @@ var vegas_imgs = [
     "fade": 2000
   },
   {
+    "src": "http://farm6.static.flickr.com/5079/7440222072_acecab15f7_n.jpg",
+    "fade": 2000
+  },
+  {
+    "src": "http://farm6.static.flickr.com/5113/7431280314_93571d9236_n.jpg",
+    "fade": 2000
+  },
+  {
+    "src": "http://farm6.static.flickr.com/5194/7440195648_f2dbd774f3_n.jpg",
+    "fade": 2000
+  },
+  {
+    "src": "http://farm6.static.flickr.com/5330/7440197492_b6f496696c_n.jpg",
+    "fade": 2000
+  },
+  {
     "src": "http://farm6.static.flickr.com/5338/7440202736_bbc94ea6de_n.jpg",
+    "fade": 2000
+  },
+  {
+    "src": "http://farm6.static.flickr.com/5464/7440201570_ae0d4097fd_n.jpg",
     "fade": 2000
   },
   {
@@ -176,19 +176,15 @@ var vegas_imgs = [
     "fade": 2000
   },
   {
-    "src": "http://farm6.static.flickr.com/5594/14737068337_72304eea7f_n.jpg",
-    "fade": 2000
-  },
-  {
     "src": "http://farm6.static.flickr.com/5598/15599773436_9ff5fceda2_n.jpg",
     "fade": 2000
   },
   {
-    "src": "http://farm6.static.flickr.com/5609/15623462515_f41f1657f4_n.jpg",
+    "src": "http://farm6.static.flickr.com/5613/15436827129_7276e1809e_n.jpg",
     "fade": 2000
   },
   {
-    "src": "http://farm6.static.flickr.com/5613/15436827129_7276e1809e_n.jpg",
+    "src": "http://farm6.static.flickr.com/5614/15623461005_37eff1c656_n.jpg",
     "fade": 2000
   },
   {
@@ -228,23 +224,11 @@ var vegas_imgs = [
     "fade": 2000
   },
   {
-    "src": "http://farm8.static.flickr.com/7276/7440215958_25f919eae2_n.jpg",
-    "fade": 2000
-  },
-  {
     "src": "http://farm8.static.flickr.com/7322/16425009851_96ce9c099f_n.jpg",
     "fade": 2000
   },
   {
-    "src": "http://farm8.static.flickr.com/7365/16239123568_78fa0e9d98_n.jpg",
-    "fade": 2000
-  },
-  {
     "src": "http://farm9.static.flickr.com/8008/7431238648_c523733776_n.jpg",
-    "fade": 2000
-  },
-  {
-    "src": "http://farm9.static.flickr.com/8013/7440207938_4f4802c504_n.jpg",
     "fade": 2000
   },
   {
