@@ -4,10 +4,6 @@ var vegas_imgs = [
     "fade": 2000
   },
   {
-    "src": "http://farm1.static.flickr.com/658/23821089505_6b9c1db8c1_n.jpg",
-    "fade": 2000
-  },
-  {
     "src": "http://farm1.static.flickr.com/671/23367110866_cf1948e750_n.jpg",
     "fade": 2000
   },
@@ -21,10 +17,6 @@ var vegas_imgs = [
   },
   {
     "src": "http://farm3.static.flickr.com/2898/14433316664_b2e7d54e36_n.jpg",
-    "fade": 2000
-  },
-  {
-    "src": "http://farm3.static.flickr.com/2931/14248023867_974e08ea96_n.jpg",
     "fade": 2000
   },
   {
@@ -57,6 +49,10 @@ var vegas_imgs = [
   },
   {
     "src": "http://farm5.static.flickr.com/4061/4443569853_7892b7ac76_n.jpg",
+    "fade": 2000
+  },
+  {
+    "src": "http://farm5.static.flickr.com/4064/4443570947_08eea8d38d_n.jpg",
     "fade": 2000
   },
   {
@@ -100,7 +96,7 @@ var vegas_imgs = [
     "fade": 2000
   },
   {
-    "src": "http://farm5.static.flickr.com/4115/4778388681_013fbd3a1d_n.jpg",
+    "src": "http://farm5.static.flickr.com/4120/4779023486_56a1aaee72_n.jpg",
     "fade": 2000
   },
   {
@@ -113,10 +109,6 @@ var vegas_imgs = [
   },
   {
     "src": "http://farm5.static.flickr.com/4139/4778382499_737d11a5ab_n.jpg",
-    "fade": 2000
-  },
-  {
-    "src": "http://farm5.static.flickr.com/4139/4779025350_f29cfa9169_n.jpg",
     "fade": 2000
   },
   {
@@ -141,6 +133,10 @@ var vegas_imgs = [
   },
   {
     "src": "http://farm6.static.flickr.com/5463/7440210464_d2075e42b6_n.jpg",
+    "fade": 2000
+  },
+  {
+    "src": "http://farm6.static.flickr.com/5464/7440201570_ae0d4097fd_n.jpg",
     "fade": 2000
   },
   {
@@ -180,6 +176,10 @@ var vegas_imgs = [
     "fade": 2000
   },
   {
+    "src": "http://farm8.static.flickr.com/7118/7440200764_7b23e5c513_n.jpg",
+    "fade": 2000
+  },
+  {
     "src": "http://farm8.static.flickr.com/7139/7440209158_bd46290872_n.jpg",
     "fade": 2000
   },
@@ -193,6 +193,10 @@ var vegas_imgs = [
   },
   {
     "src": "http://farm9.static.flickr.com/8013/7440207938_4f4802c504_n.jpg",
+    "fade": 2000
+  },
+  {
+    "src": "http://farm9.static.flickr.com/8028/7440194580_e8545428c4_n.jpg",
     "fade": 2000
   }
 ]
