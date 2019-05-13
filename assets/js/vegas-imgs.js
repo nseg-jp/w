@@ -144,6 +144,10 @@ var vegas_imgs = [
     "fade": 2000
   },
   {
+    "src": "http://farm5.static.flickr.com/4141/4778386905_efee3c07bc_n.jpg",
+    "fade": 2000
+  },
+  {
     "src": "http://farm5.static.flickr.com/4683/38022416725_2b323819f8_n.jpg",
     "fade": 2000
   },
