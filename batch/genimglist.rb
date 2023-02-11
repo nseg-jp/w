@@ -10,7 +10,7 @@ class NSEGImgListGenerator
   FLICKR_GROUP_ID = '1527351@N25'
   FLICKR_TAGS = 'nseg'
   FLICKR_SORT = 'date-posted-desc'
-  FLICKR_PRIVACY_FILTER = 'public photos'
+  FLICKR_PRIVACY_FILTER = 'public+photos'
   FLICKR_PER_PAGE = '100'
 
   def get_flickr()
@@ -38,7 +38,7 @@ class NSEGImgListGenerator
   def get_imagelist(data)
     result = []
     data['photos']['photo'].each do |item|
-      path  = "http://farm#{item['farm']}.static.flickr.com/"
+      path  = "https://farm#{item['farm']}.static.flickr.com/"
       path += "#{item['server']}/#{item['id']}_#{item['secret']}"
       path += '_n.jpg'
       #path += '_t.jpg'
